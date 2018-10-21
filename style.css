@@ -1,5 +1,6 @@
 body {
-		border : 5px solid black;
+	border : 5px solid black;
+	background: linear-gradient(to bottom, #0000cc 0%, #ffff00 100%);	
 }
 .header {
 	background-color: #89CFF0;
@@ -15,9 +16,11 @@ body {
 	float: left;
 	width : 45%;
 	border : 5px solid black;
+	background-color:#c9c9c9;
 }
 .columnright {
 	float: right;
 	width : 53%;
 	border : 5px solid black;
+	background-color:#c9c9c9;
 }
