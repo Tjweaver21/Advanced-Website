@@ -1,1 +1,13 @@
-
+body {
+		border : 5px solid black;
+}
+.header {
+	background-color: #89CFF0;
+	text-align: center;
+		padding: 20px;
+		border : 2px solid black;
+}
+.topnav {
+	overflow : hidden;
+	background : #bc0000;
+}
