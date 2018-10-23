@@ -23,9 +23,7 @@ body {
 	border : 5px solid black;
 	background-color:#c9c9c9;
 }
-<style>
 .footer {
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -33,4 +31,3 @@ body {
     color: white;
     text-align: center;
 }
-</style>
