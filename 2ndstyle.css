@@ -12,10 +12,13 @@ body {
 	background : #bc0000;
 }
 .Overwatch {
+	float: left
 }
 .Rainbow {
+	float:right
 }
 .BlackOps4 {
+	float: center
 }
 .footer {
     left: 0;
